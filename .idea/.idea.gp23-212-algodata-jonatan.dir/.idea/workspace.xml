@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cede0d4-474e-4d62-bd7f-ed1eeaeee93b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BubbleSort/ArrayAverageCalculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.gp23-212-algodata-jonatan.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.gp23-212-algodata-jonatan.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmsTest/FibonacciTime/Fibonaccix2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsTest/FibonacciTime/Fibonaccix2.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BubbleSort/BubbleSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.gp23-212-algodata-jonatan.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gp23-212-algodata-jonatan.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort/SelectionSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort/SelectionSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort/UnitTest1.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/AlgorithmsTest/FibonacciTime/Fibonaccix2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AlgorithmsTest/Selection.Sort.Test/SelectionSort.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AlgorithmsTest/Selection.Sort.Test/UnitTest2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BubbleSort/SelectionSort.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,7 +73,7 @@
       <updated>1715861506542</updated>
       <workItem from="1715861507696" duration="2074000" />
       <workItem from="1715953342832" duration="135000" />
-      <workItem from="1715953497521" duration="1689000" />
+      <workItem from="1715953497521" duration="2973000" />
     </task>
     <servers />
   </component>

@@ -1,8 +1,12 @@
 ﻿
-namespace BubbleSort
+using System;
+using System.Collections.Generic;
+
+namespace TurboCollections
 {
     public static partial class TurboSort
     {
+        // Método de ordenación por selección
         public static void SelectionSort(List<int> list)
         {
             int n = list.Count;
