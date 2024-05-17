@@ -35,7 +35,7 @@ public class FibonacciCalculator
     
     
     //ChatGPT helped here:
-    /*public static void Main(string[] args)
+    public static void Main(string[] args)
     {
         int n = 40;
 
@@ -54,5 +54,5 @@ public class FibonacciCalculator
         stopwatch.Stop();
         Console.WriteLine($"Iterative Fibonacci({n}) = {iterativeResult}");
         Console.WriteLine($"Time taken (iterative): {stopwatch.ElapsedMilliseconds} ms");
-    }*/
+    }
 }
